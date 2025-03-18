@@ -5,7 +5,8 @@
 I had the opportunity to present the findings of my **Credit Card Fraud Detection** project at the **North Texas ISSA (Information Systems Security Association)**. The presentation focused on the methodology, key insights, and results obtained from analyzing and modeling the credit card fraud dataset.
 
 Here is a link to a PDF of my presentation. Thanks you!
-https://drive.google.com/file/d/1RoH1W4JT7atVKbMJUV8UsBAStKtXxnsl/view?usp=sharing
+
+**https://drive.google.com/file/d/1RoH1W4JT7atVKbMJUV8UsBAStKtXxnsl/view?usp=sharing**
 
 ## Presentation Highlights
 
