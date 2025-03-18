@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-The primary goal of this project is to develop a comprehensive fraud detection system that enhances the security and trustworthiness of financial transactions.
+The primary goal of this project is to develop a comprehensive fraud detection system that enhances the security and trustworthiness of financial transactions. 
 
 
 ![GitHub](https://img.shields.io/badge/license-MIT-blue)
@@ -54,5 +54,5 @@ The dataset contains transactions made by credit cards in September 2013 by Euro
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/AryanPillai2007/Credit-Card-Fraud-Detection.git
    cd credit-card-fraud-detection
