@@ -6,7 +6,7 @@ I had the opportunity to present the findings of my **Credit Card Fraud Detectio
 
 Here is a link to a PDF of my presentation. Thanks you!
 
-**https://drive.google.com/file/d/1RoH1W4JT7atVKbMJUV8UsBAStKtXxnsl/view?usp=sharing**
+![Link](**https://drive.google.com/file/d/1RoH1W4JT7atVKbMJUV8UsBAStKtXxnsl/view?usp=sharing**)
 
 ## Presentation Highlights
 
