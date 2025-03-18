@@ -20,7 +20,8 @@ https://drive.google.com/file/d/1RoH1W4JT7atVKbMJUV8UsBAStKtXxnsl/view?usp=shari
 Below are the graphs and visualizations used in the presentation:
 
 ### 1. Initial Class Distribution
-![Initial Class Distribution](graphs/Initial_Class_Distributions.png)
+(graphs/Initial Class Distributions.png)
+
 
 ### 2. Distributions of Transaction Amount and Time
 ![Distributions of Amount and Time](graphs/Distributions_of_Amount_and_Time.png)
